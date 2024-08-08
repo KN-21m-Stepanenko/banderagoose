@@ -96,4 +96,30 @@ body {
     color: #1b1d1f;
     width: 772px;
     margin: auto;
+    margin-top: 0;
+    margin-bottom: 24px;
+}
+
+.facts-item-title {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 100%;
+    text-align: center;
+    color: #1b1d1f;
+    margin-top: 0;
+    margin-bottom: 32px;
+}
+
+.facts-item-dscr {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: #1b1d1f;
+    margin-top: 0;
+    margin-bottom: 0px;
+}
+
+.facts-item {
+    width: calc((100% / 3) - (24px * 2) / 3);
 }
