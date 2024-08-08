@@ -1,0 +1,99 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+}
+
+.main-page {
+  width: 100%;
+  background: linear-gradient(271deg, #a5deff 1.14%, #fcfefe 100%);
+}
+
+.main-page-text-container {
+  border-radius: 40px;
+  background: #fff;
+  padding-top: 60px;
+  padding-right: 60px;
+  padding-left: 60px;
+  padding-bottom: 60px;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1170px;
+  position: relative;
+}
+
+.main-page-hello-text {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 150%;
+  color: #1b1d1f;
+  margin-top: 0;
+  margin-bottom: 60px;
+}
+
+.main-page-title {
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 112%;
+  color: #1b1d1f;
+  margin-top: 0;
+  margin-bottom: 24px;
+}
+
+.main-page-descr {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  color: #1b1d1f;
+  margin-top: 0;
+  margin-bottom: 32px;
+}
+
+.main-page-btn {
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+  background-color: #ff6200;
+  padding: 20px;
+}
+
+.goit-logo {
+    position: absolute;
+    top: 32px;
+    left: 0;
+}
+
+.facts-title {
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 150%;
+    color: #1b1d1f;
+    margin-top: 0;
+    margin-bottom: 32px;
+}
+
+.facts {
+    padding-top: 48px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+
+.facts-trezub {
+    margin-bottom: 24px;
+}
+
+.facts-dscr {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: #1b1d1f;
+    width: 772px;
+    margin: auto;
+}
